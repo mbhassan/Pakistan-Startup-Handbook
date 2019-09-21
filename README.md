@@ -1,5 +1,5 @@
 # Pakistan-Startup-Handbook
-A summary of tools for use by Pakistani startups.
+A summary of tools & resouces for use by Pakistani startups.
 
 ## Foreword
 Due to a rapidly increasing ecosystem of startups in Pakistan, local companies have built products to help these startups out solve several problems endemic to the country. A curated list of groups, tools and resources are available below.
@@ -32,3 +32,5 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 
 ## Pitch Deck
 - Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
+
+Curated by Millennium Softwares (https://www.millsoft.com.pk)
