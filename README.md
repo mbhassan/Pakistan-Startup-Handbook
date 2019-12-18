@@ -28,7 +28,6 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 ## Investor Listings
 - Angellist: https://angel.co
 - Crunchbase: https://www.crunchbase.com
-- 
 
 ## Pitch Deck
 - Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
