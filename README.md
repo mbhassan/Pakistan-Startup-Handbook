@@ -12,6 +12,11 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 
 ## Coworking Spaces
 - Work Hall: https://www.facebook.com/workhall.co/
+- National Incubation Center: https://nicpakistan.pk/
+
+## Incubators / Accelerators
+- Nest I/O: https://thenestio.com/
+- National Incubation Center: https://nicpakistan.pk/
 
 ## Website Hosting
 - HostCry: https://hostcry.com
@@ -28,6 +33,11 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 ## Investor Listings
 - Angellist: https://angel.co
 - Crunchbase: https://www.crunchbase.com
+- Investor Lounge: https://www.investorslounge.com/
+
+## Investors
+- Fatima Ventures: http://www.fatimaventures.com/
+- Lakson VC: https://livc.pk/
 
 ## Pitch Deck
 - Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
