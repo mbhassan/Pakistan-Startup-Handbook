@@ -39,7 +39,18 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 - Fatima Ventures: http://www.fatimaventures.com/
 - Lakson VC: https://livc.pk/
 
+## Mentoring
+- https://www.facebook.com/groups/PakistanStartups/
+- Nest I/O: https://thenestio.com/ (ask for Jawwad Farid or Akash Sheikh)
+
 ## Pitch Deck
 - Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
+
+## Startup Bibles
+- Lean Startup by Eric Ries
+- Lean Analytics by O Reilly
+- Jab Jab Jab Right Hook by Gary Vaynerchuk
+- Art of the Start by Guy Kawasaki
+- Startup Land by Mikkel Svane
 
 Curated by Millennium Softwares (https://www.millsoft.com.pk)
