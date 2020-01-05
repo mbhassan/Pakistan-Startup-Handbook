@@ -43,6 +43,10 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 - https://www.facebook.com/groups/PakistanStartups/
 - Nest I/O: https://thenestio.com/ (ask for Jawwad Farid or Akash Sheikh)
 
+## Startup Aggregators
+- http://www.jumpstartpakistan.com/Startup
+- http://www.startuplist.pk/
+
 ## Pitch Deck
 - Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
 
