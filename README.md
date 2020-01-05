@@ -4,6 +4,21 @@ A summary of tools & resouces for use by Pakistani startups.
 ## Foreword
 Due to a rapidly increasing ecosystem of startups in Pakistan, local companies have built products to help these startups out solve several problems endemic to the country. A curated list of groups, tools and resources are available below.
 
+## Pitch Deck
+- Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
+
+## Startup Bibles
+- Lean Startup by Eric Ries
+- Lean Analytics by O Reilly
+- Jab Jab Jab Right Hook by Gary Vaynerchuk
+- Art of the Start by Guy Kawasaki
+- Startup Land by Mikkel Svane
+
+## Startup Aggregators / Product Listings
+- http://www.jumpstartpakistan.com/Startup
+- http://www.startuplist.pk/
+- https://www.producthunt.com/
+
 ## Social Media Groups
 - Software Development: https://www.facebook.com/groups/softdevpk/
 - AI: https://www.facebook.com/groups/pakdotai/
@@ -42,20 +57,12 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 ## Mentoring
 - https://www.facebook.com/groups/PakistanStartups/
 - Nest I/O: https://thenestio.com/ (ask for Jawwad Farid or Akash Sheikh)
+- National Incubation Center: https://nicpakistan.pk/
 
-## Startup Aggregators / Product Listings
-- http://www.jumpstartpakistan.com/Startup
-- http://www.startuplist.pk/
-- https://www.producthunt.com/
-
-## Pitch Deck
-- Guy Kawasaki: https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
-
-## Startup Bibles
-- Lean Startup by Eric Ries
-- Lean Analytics by O Reilly
-- Jab Jab Jab Right Hook by Gary Vaynerchuk
-- Art of the Start by Guy Kawasaki
-- Startup Land by Mikkel Svane
+## Logistics
+- https://www.tcsexpress.com/
+- https://www.logistics.dhl/pk-en/home.html
+- https://www.blue-ex.com/
+- http://mulphilog.com/
 
 Curated by Millennium Softwares (https://www.millsoft.com.pk)
