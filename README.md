@@ -59,6 +59,9 @@ Due to a rapidly increasing ecosystem of startups in Pakistan, local companies h
 - Nest I/O: https://thenestio.com/ (ask for Jawwad Farid or Akash Sheikh)
 - National Incubation Center: https://nicpakistan.pk/
 
+## Market research & financial literacy
+- Pehle Samjho: https://pehlesamjho.com — Educational Pakistan share prices / PSX research desk (free Shark Methodology course, company desks, claim evaluation). Not a broker.
+
 ## Logistics
 - https://www.tcsexpress.com/
 - https://www.logistics.dhl/pk-en/home.html
